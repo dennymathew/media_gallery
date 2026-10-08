@@ -1,0 +1,16 @@
+[
+  {"id": "img-1", "type": "image", "url": "https://picsum.photos/id/1015/1080/1920"},
+  {"id": "yt-1", "type": "video", "url": "https://www.youtube.com/watch?v=aqz-KE-bpKQ"},
+  {"id": "ted-1", "type": "video", "url": "https://www.ted.com/talks/sir_ken_robinson_do_schools_kill_creativity"},
+  {"id": "tour-1", "type": "virtualTour", "url": "https://tour.ogulo.com/ky2Z"},
+  {"id": "img-2", "type": "image", "url": "https://picsum.photos/id/1043/1080/1920"},
+  {"id": "vimeo-1", "type": "video", "url": "https://vimeo.com/76979871"},
+  {"id": "wistia-1", "type": "video", "url": "https://home.wistia.com/medias/e4a27b971d"},
+  {"id": "tour-2", "type": "virtualTour", "url": "https://tour.ogulo.com/BhiY"},
+  {"id": "carousel-1", "type": "carousel", "url": "https://example.com/not-supported-yet"},
+  {"id": "streamable-1", "type": "video", "url": "https://streamable.com/moo"},
+  {"id": "archive-1", "type": "video", "url": "https://archive.org/details/BigBuckBunny_124", "embedUrl": "https://archive.org/embed/BigBuckBunny_124", "thumbnailUrl": "https://archive.org/services/img/BigBuckBunny_124"},
+  {"id": "hls-1", "type": "video", "url": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8"},
+  {"id": "img-3", "type": "image", "url": "https://picsum.photos/id/1067/1080/1920"},
+  {"id": "page-1", "type": "video", "url": "https://example.com/some/landing-page"}
+]
